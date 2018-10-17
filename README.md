@@ -4,6 +4,10 @@ Codigo que tradusca texto a numeros romanos y numeros romanos a texto
 ****Todo lo escrito entre comillas en el codigo al escribirlas de nuevo no las debe llavar****
 Ejemplo 
 "dir" seria igual a dir
+---Desde la ID de netbeans---
+1-descargar el programa
+2-Arrastar el archivo Romano-master asta el acceso del neatbeans para que je abra el programa;                                           ;
+----Desde consola----
 1-Descargue el archivo
 2-Abra el archivo
 3-Dirijase a la carpeta src
