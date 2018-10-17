@@ -1,6 +1,6 @@
 # Romano
 Codigo que tradusca texto a numeros romanos y numeros romanos a texto
-Instrucciones
+****Instrucciones****
 ****Todo lo escrito entre comillas en el codigo al escribirlas de nuevo no las debe llavar****
 Ejemplo 
 "dir" seria igual a dir
@@ -14,4 +14,5 @@ Ejemplo
 8-Ya nos encontramos en la ubicacion del escritorio el siguiente paso seria compilar el codigo escribiriamos de nuevo "dir" para uvicar el archivo y ejecutaremos con enter 
 8-Ubicado el archivo escribir el siguiente codigo "javac Romano1.java" y apretar enter
 7-Ya compilado escribir "java Romano" para ejecutar
-
+*****USO*****
+escriba un numero de rango de 1 a mil y presione enter para tranformarlo en texto simbolico romano
