@@ -17,6 +17,6 @@ Ejemplo
 7-Escriba "Desktop" si su sitema eta en ingles o "Escritorio" si su sistama esta en español
 8-Ya nos encontramos en la ubicacion del escritorio el siguiente paso seria compilar el codigo escribiriamos de nuevo "dir" para uvicar el archivo y ejecutaremos con enter 
 8-Ubicado el archivo escribir el siguiente codigo "javac Romano1.java" y apretar enter
-7-Ya compilado escribir "java Romano" para ejecutar
+7-Ya compilado escribir "java Romano1" para ejecutar
 *****USO*****
 escriba un numero de rango de 1 a mil y presione enter para tranformarlo en texto simbolico romano
